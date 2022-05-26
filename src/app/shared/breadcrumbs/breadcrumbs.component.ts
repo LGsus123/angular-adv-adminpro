@@ -1,12 +1,12 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-breadcrums',
-  templateUrl: './breadcrums.component.html',
+  selector: 'app-breadcrumbs',
+  templateUrl: './breadcrumbs.component.html',
   styles: [
   ]
 })
-export class BreadcrumsComponent implements OnInit {
+export class BreadcrumbsComponent implements OnInit {
 
   constructor() { }
 
